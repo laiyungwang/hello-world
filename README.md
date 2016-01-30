@@ -1,2 +1,3 @@
-# hello-world
-just another repository
+# hello-world brach readme-edits.
+just other repository
+I like coding with c sharp.
